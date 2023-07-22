@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @SanguSomeshetty
-- 👀 I’m interested in ...Coding,Watching Movies,Listening Devotional Songs
-- 🌱 I’m currently learning ...Programming Language
+- 👋 Hi, I’m @SangameshSomeshetty
+- 👀 I’m interested in ...Coding,Watching Movies,Listening Devotional Songs,Solving mathematical problems.
+- 🌱 I’m currently improving my knowledge in programming Languages.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...Email i'd= sangusomeshetty@gmail.com
+-                        Instagram i'd= mr_someshetty
 
 <!---
 sangusomeshetty/sangusomeshetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
