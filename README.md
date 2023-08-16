@@ -3,7 +3,7 @@
 - 🌱 I’m currently improving my knowledge in programming Languages.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Email i'd= sangusomeshetty@gmail.com
--                        Instagram i'd= mr_someshetty
+-                        Instagram i'd= bremblue_
 
 <!---
 sangusomeshetty/sangusomeshetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
